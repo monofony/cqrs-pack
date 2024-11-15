@@ -14,7 +14,8 @@ install-skeleton:
 
 .PHONY: add-requirements
 add-requirements:
-	(cd ${TEST_APP_DIR} && composer require symfony/messenger phpunit/phpunit)
+	(cd ${TEST_APP_DIR} && composer require symfony/messenger)
+	(cd ${TEST_APP_DIR} && composer require --dev phpunit/phpunit)
 
 .PHONY: copy-recipe
 copy-recipe:

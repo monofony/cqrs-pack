@@ -1,0 +1,9 @@
+{
+    "name": "akawaka/cqrs-pack",
+    "description": "Pack for CQRS",
+    "type": "meta-package",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3"
+    }
+}

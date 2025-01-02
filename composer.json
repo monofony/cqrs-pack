@@ -1,5 +1,5 @@
 {
-    "name": "akawaka/cqrs-pack",
+    "name": "monofony/cqrs-pack",
     "description": "Pack for CQRS",
     "type": "meta-package",
     "license": "MIT",

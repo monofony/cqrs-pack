@@ -1,0 +1,10 @@
+{
+    "name": "monofony/cqrs-pack",
+    "description": "Pack for CQRS",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3",
+        "symfony/messenger": "*"
+    }
+}
